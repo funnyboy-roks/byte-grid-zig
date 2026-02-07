@@ -1,6 +1,5 @@
 /*
-!.gitignore
-!*.zig
-!*.h
-!Makefile
-!img
+!*.*
+*.txt
+*.png
+*.o
