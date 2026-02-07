@@ -20,6 +20,4 @@ $ make
 
 ## Stream
 
-This was built on stream on 06 February 2026!
-
-TODO: YouTube Link
+This was built on stream on 06 February 2026: <https://www.youtube.com/watch?v=ZGxUUj7MlUQ>
