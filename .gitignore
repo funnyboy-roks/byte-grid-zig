@@ -1,0 +1,6 @@
+/*
+!.gitignore
+!*.zig
+!*.h
+!Makefile
+!img
