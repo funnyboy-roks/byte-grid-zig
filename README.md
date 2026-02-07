@@ -8,7 +8,7 @@ byte on the y-axis (origin is top-left).
 
 This image is produced over a compiled "Hello, World!" from Rust:
 
-![./img/out.png](Produced image)
+![Produced image](./img/out.png)
 
 ## Development
 
