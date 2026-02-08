@@ -1,7 +1,3 @@
-/*
-!*.*
-*.txt
 *.png
-*.o
-*.h
-!Makefile
+.zig-cache
+zig-out
